@@ -1,5 +1,12 @@
-# Object file
-*.o
+# Папки
+.idea/
+*.iml
 
-# Ada Library Information
-*.ali
+# Файлы
+*.pyc
+*.pyo
+__pycache__/
+
+# Виртуальное окружение
+venv/
+.venv/
