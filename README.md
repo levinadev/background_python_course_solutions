@@ -15,7 +15,7 @@
 Нужен Python 3.10 или новее, сторонние библиотеки не нужны. Решения читают входные данные через `input()`, как на Stepik. Например, так запускается первая задача.
 
 ```bash
-python 02_background_tasks/03_queue_by_hand/step_02.py
+python 02_background_tasks/03_queue_by_hand/step_06.py
 ```
 
 После запуска введите данные с клавиатуры и нажмите Enter, как описано в условии в начале файла.
@@ -28,14 +28,14 @@ python 02_background_tasks/03_queue_by_hand/step_02.py
 
 | Урок | Шаг | Файл |
 |---|---|---|
-| 2.3 Очередь своими руками | 2 | [`02_background_tasks/03_queue_by_hand/step_02.py`](02_background_tasks/03_queue_by_hand/step_02.py) |
-| 2.3 Очередь своими руками | 3 | [`02_background_tasks/03_queue_by_hand/step_03.py`](02_background_tasks/03_queue_by_hand/step_03.py) |
+| 2.3 Очередь своими руками | 6 | [`02_background_tasks/03_queue_by_hand/step_06.py`](02_background_tasks/03_queue_by_hand/step_06.py) |
+| 2.3 Очередь своими руками | 7 | [`02_background_tasks/03_queue_by_hand/step_07.py`](02_background_tasks/03_queue_by_hand/step_07.py) |
 
 ### 3. Redis для работы с Celery
 
 | Урок | Шаг | Файл |
 |---|---|---|
-| 3.1 Знакомство с Redis | 5 | [`03_redis/01_redis_basics/step_05.py`](03_redis/01_redis_basics/step_05.py) |
+| 3.1 Знакомство с Redis | 12 | [`03_redis/01_redis_basics/step_12.py`](03_redis/01_redis_basics/step_12.py) |
 | 3.2 Списки как очередь | 4 | [`03_redis/02_lists_as_queue/step_04.py`](03_redis/02_lists_as_queue/step_04.py) |
 
 ### 4. Первая задача
